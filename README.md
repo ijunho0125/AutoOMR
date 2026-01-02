@@ -3,7 +3,6 @@
 AI Smart OMR is a premium web-based application that automatically analyzes exam answer keys and generates an interactive OMR sheet. Leveraging **Google Gemini**, it provides an intelligent, seamless experience for grading and practice.
 
 ![Main UI](static/images/AutoOMR.svg)
-*(Note: Please ensure you have the screenshots in the images folder)*
 
 ---
 
@@ -88,3 +87,9 @@ AutoOMR/
 
 - `POST /api/analyze`: Upload and process PDF to extract answers using AI.
 - `GET /`: Serves the interactive OMR application.
+  
+---
+
+## 🖥️ Screen Shot
+<img width="1920" height="1653" alt="screencapture-localhost-8000-2026-01-02-20_13_31" src="https://github.com/user-attachments/assets/39ef3c1e-9ce7-4f36-a7eb-e690097c26e4" />
+
