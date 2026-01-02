@@ -90,6 +90,6 @@ AutoOMR/
   
 ---
 
-## 🖥️ Screen Shot
+## 🖥️ ScreenShot
 <img width="1920" height="1653" alt="screencapture-localhost-8000-2026-01-02-20_13_31" src="https://github.com/user-attachments/assets/39ef3c1e-9ce7-4f36-a7eb-e690097c26e4" />
 
