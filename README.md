@@ -71,7 +71,7 @@ AI Smart OMR is a premium web-based application that automatically analyzes exam
 ## 📂 Project Structure
 
 ```
-G01_AutoOMR/
+AutoOMR/
 ├── main.py                # FastAPI server & endpoints
 ├── find_the_answer.py     # Gemini API integration & PDF logic
 ├── static/                # Frontend assets (The heart of the UI)
